@@ -1,0 +1,10 @@
+HELP.md
+/node_modules/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+
+### IntelliJ IDEA ###
+
+### NetBeans ###
+package-lock.json
